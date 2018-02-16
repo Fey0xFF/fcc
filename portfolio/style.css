@@ -1,0 +1,19 @@
+body {
+  position: relative;
+}
+
+.bg-darkgrey {
+  background-color: #272727;
+}
+
+.bg-deepgrey {
+  background-color: #1F2833;
+}
+
+.fg-turq {
+  color: #14A76C;
+}
+
+.icon-square {
+  font-size: 3em;
+}
